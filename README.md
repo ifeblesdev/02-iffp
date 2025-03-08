@@ -1,11 +1,11 @@
-# IFFP - Aplicación Web de Gestión
+# IFFP - Aplicación Web de Finanzas Personales
 
 **IFFP** es una aplicación web diseñada para gestionar de manera eficiente las finanzas de una persona o pequeña organización. La plataforma permite a los usuarios gestionar los bancos y conceptos de ingresos y egresos con una interfaz fácil de usar.
 
 ## Características principales
 
 - **Gestión de Usuarios**: La aplicación permite gestionar los datos de los usuarios, permitiendo su registro, y actualización..
-- **Gestión de Bancos**: Administración de cuentas bancarias o información relacionada con los bancos de datos de la persona.
+- **Gestión de Bancos**: Administración de cuentas bancarias o información relacionada con los bancos y conceptos de la persona.
 - **Interfaz Intuitiva**: Diseño amigable basado en el uso de **Bootstrap** y **Django Crispy Forms**, para una experiencia de usuario más eficiente.
 - **Conexión con PostgreSQL**: Base de datos robusta con PostgreSQL para almacenar toda la información del usuario.
 - **Autenticación y Autorización**: Uso de sistemas de autenticación con seguridad.
@@ -40,4 +40,4 @@ Para ejecutar esta aplicación de manera local, sigue estos pasos:
 3. **Rutas**:  
    Si tu proyecto tiene rutas adicionales que deben ser mencionadas (por ejemplo, para acceder a ciertos recursos o vistas), puedes agregarlas bajo la sección de **Instalación** o **Uso**.
 
-Si necesitas algún ajuste adicional o más detalles, ¡avísame! 😊
+
