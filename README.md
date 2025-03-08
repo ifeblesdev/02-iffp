@@ -1,2 +1,2 @@
-# 02-iffp
-Aplicación IF Finanzas Personales
+# iffp
+Finanzas personales de Ignacio Febles
