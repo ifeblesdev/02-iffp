@@ -1,7 +1,9 @@
 # IFFP - Aplicación Web de Finanzas Personales
 
 **IFFP** es una aplicación web diseñada para gestionar de manera eficiente las finanzas de una persona o pequeña organización. La plataforma permite a los usuarios gestionar los bancos y conceptos de ingresos y egresos con una interfaz fácil de usar.
-[IFfp](https://iffp.onrender.com/ "Visita IF Finanzas Personales")
+
+Puedes acceder a [Iffp](https://iffp.onrender.com/) o hacer clic en este enlace para abrir "IF Finanzas Personales" en una nueva pestaña:  
+<a href="https://iffp.onrender.com/" target="_blank">Iffp</a>
 
 
 ## Características principales
