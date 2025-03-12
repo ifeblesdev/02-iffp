@@ -1,6 +1,8 @@
 # IFFP - Aplicación Web de Finanzas Personales
 
 **IFFP** es una aplicación web diseñada para gestionar de manera eficiente las finanzas de una persona o pequeña organización. La plataforma permite a los usuarios gestionar los bancos y conceptos de ingresos y egresos con una interfaz fácil de usar.
+[IFfp](https://iffp.onrender.com/ "Visita IF Finanzas Personales")
+
 
 ## Características principales
 
@@ -14,7 +16,6 @@
 
 - **Backend**: Django (Python) + PostgreSQL
 - **Frontend**: HTML, CSS, Bootstrap 5, JavaScript
-- **Autenticación**: JWT (JSON Web Tokens)
 - **Despliegue**: Render (o cualquier otra plataforma de despliegue)
 - **Entorno Virtual**: Python 3.x
 
@@ -32,7 +33,7 @@ Para ejecutar esta aplicación de manera local, sigue estos pasos:
 ### Pasos adicionales que podrías personalizar:
 
 1. **Enlace del repositorio**:  
-   En la sección de instalación, recuerda reemplazar `https://github.com/tu_usuario/iffp.git` con la URL real de tu repositorio de GitHub.
+   En la sección de instalación, recuerda reemplazar `https://github.com/ifeblesdev/02-iffp` con la URL real de tu repositorio de GitHub.
 
 2. **Variables de entorno (`.env`)**:  
    Asegúrate de configurar correctamente las variables de entorno en el archivo `.env` según los detalles de tu base de datos y cualquier otro entorno que tu app requiera.
